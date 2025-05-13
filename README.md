@@ -20,4 +20,13 @@ Link: https://drive.google.com/drive/folders/1-VwMaLGQ10pdxrpktF4tmHXw1Hq8jOX0?u
 Meng-impor empat data ke Google BigQuery untuk pemrosesan dan analisis lebih lanjut.
 ## 2. Membuat tabel analisis 
 Tabel gabungan yang diberi nama file kimia_farma_analysis dibuat dengan menggabungkan data transaksi, cabang, dan produk, beserta bidang terhitung seperti penjualan bersih dan laba bersih.
-link: 
+link: https://github.com/IvanWh03/BigDataAnalisis_KimiaFarma/blob/3a6b8acd77cb43e31fc96a37b28d59e842642839/sql_code.sql
+## 3 Membuat Dashboard di Looker Studio
+Dasbor interaktif dibuat dengan wawasan berikut:
+Total Pendapatan & Tren Transaksi
+Distribusi Transaksi menurut Provinsi
+10 Penjualan Bersih Teratas menurut Cabang/Provinsi
+Rata-rata Peringkat Pelanggan
+Cabang dengan Peringkat Tinggi dengan Transaksi Rendah
+Distribusi Keuntungan di Seluruh Wilayah
+## Dashboard
