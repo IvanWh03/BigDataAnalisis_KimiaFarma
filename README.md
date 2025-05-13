@@ -14,7 +14,7 @@ kf_final_transaction – Final transaction data
 kf_inventory – Inventory data
 kf_kantor_cabang – Branch office information
 kf_product – Product details
-Link: 
+Link: https://drive.google.com/drive/folders/1-VwMaLGQ10pdxrpktF4tmHXw1Hq8jOX0?usp=sharing
 # Proses & Tugas
 ## 1. Import Dataset ke BigQuery
 Meng-impor empat data ke Google BigQuery untuk pemrosesan dan analisis lebih lanjut.
