@@ -30,3 +30,4 @@ Rata-rata Peringkat Pelanggan
 Cabang dengan Peringkat Tinggi dengan Transaksi Rendah
 Distribusi Keuntungan di Seluruh Wilayah
 ## Dashboard
+https://github.com/IvanWh03/BigDataAnalisis_KimiaFarma/blob/main/Dashboard.pdf
